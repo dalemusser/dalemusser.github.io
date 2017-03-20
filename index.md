@@ -1,3 +1,3 @@
 ### Dale Musser
 
-This is Dale Musser' GitHub page.
+This is Dale Musser's GitHub page.
